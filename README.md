@@ -17,3 +17,5 @@ This data set contains booking information for a city hotel and a resort hotel, 
 All personally identifying information has been removed from the data.
 
 ![image](https://user-images.githubusercontent.com/115188345/194522870-01fe71e6-e25c-47b4-895a-bd03679899d6.png)
+
+![image](https://user-images.githubusercontent.com/115188345/194523310-a15f23d0-d024-4cfe-b90f-4b363f8a7f71.png)
