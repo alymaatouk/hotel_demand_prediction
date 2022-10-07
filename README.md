@@ -1,6 +1,8 @@
 # Hotel Demand Machine Learning Prediction, Data Cleaning, Preprocessing, Exploratpry & Explanatpry Data Analysis, Feature Engineering, Visualization using Plotly and Streamlit. 
 This Kaggle competition project demonstrates my skills data cleaning, exploratory data analysis, machine learning, and visualization.
 
+![image](https://user-images.githubusercontent.com/115188345/194522143-69a7df95-6878-42d9-8a6b-1b14248fadec.png)
+
 ## Context 
 Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests?
 
