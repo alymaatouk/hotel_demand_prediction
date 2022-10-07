@@ -15,3 +15,5 @@ This [hotel booking dataset](https://www.kaggle.com/datasets/jessemostipak/hotel
 This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things.
 
 All personally identifying information has been removed from the data.
+
+![image](https://user-images.githubusercontent.com/115188345/194522870-01fe71e6-e25c-47b4-895a-bd03679899d6.png)
