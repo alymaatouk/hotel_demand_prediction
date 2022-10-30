@@ -1,5 +1,5 @@
 # Hotel Demand Machine Learning Prediction, Data Cleaning, Preprocessing, Exploratpry & Explanatpry Data Analysis, Feature Engineering, Visualization using Plotly and Streamlit. 
-This Kaggle competition project demonstrates my skills data cleaning, exploratory data analysis, machine learning, and visualization.
+This Kaggle competition project demonstrates my skills in data cleaning, exploratory data analysis, machine learning, and visualization.
 
 You can access the [Streamlit Predective Web App](https://alymaatouk-hotel-demand-prediction-hotel-booking-f3hv27.streamlitapp.com/). 
 
